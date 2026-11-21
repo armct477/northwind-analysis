@@ -1,0 +1,367 @@
+{
+  "q1": {
+    "prior_total": 191321.8775,
+    "current_total": 422290.2355,
+    "total_change": 230968.358,
+    "company_growth": 1.207224,
+    "customers_prior": 65,
+    "customers_current": 80,
+    "customers_growth": 0.230769,
+    "orders_per_customer_prior": 1.892308,
+    "orders_per_customer_current": 3.2,
+    "orders_per_customer_growth": 0.691057,
+    "aov_growth": 0.060502,
+    "orders_growth": 1.081301,
+    "existing_net": 189150.698,
+    "existing_share": 0.818946,
+    "grew_customers": 43,
+    "grew_change": 209487.613,
+    "new_customers": 9,
+    "new_change": 25188.79,
+    "won_back_customers": 12,
+    "won_back_change": 41615.66,
+    "lapsed_customers": 6,
+    "lapsed_change": -24986.79,
+    "shrank_customers": 16,
+    "shrank_change": -20336.915,
+    "top3_countries": [
+      "USA",
+      "Germany",
+      "Brazil"
+    ],
+    "top3_share": 0.572842,
+    "top3_change": [
+      53190.0525,
+      47406.859,
+      31711.569
+    ],
+    "declining_countries": [
+      "Denmark",
+      "Canada",
+      "Mexico",
+      "Finland"
+    ],
+    "declining_change": [
+      -9422.4,
+      -3685.16,
+      -3079.6125,
+      -1874.8
+    ],
+    "declining_growth": [
+      -0.687445,
+      -0.242274,
+      -0.442186,
+      -0.453749
+    ],
+    "france_growth": 0.049517,
+    "france_prior": 17083.5,
+    "faster_categories": [
+      "Seafood",
+      "Beverages",
+      "Dairy Products"
+    ],
+    "slower_categories": [
+      "Grains/Cereals",
+      "Confections",
+      "Condiments",
+      "Produce",
+      "Meat/Poultry"
+    ],
+    "category_growth": {
+      "Beverages": 1.636951,
+      "Condiments": 0.717361,
+      "Confections": 0.707069,
+      "Dairy Products": 1.570359,
+      "Grains/Cereals": 0.31616,
+      "Meat/Poultry": 1.06309,
+      "Produce": 1.007375,
+      "Seafood": 2.851625
+    },
+    "top_category": "Beverages",
+    "top_category_change": 69506.945,
+    "top_category_share": 0.300937,
+    "top_product": "Côte de Blaye",
+    "top_product_change": 38244.39,
+    "top_product_share": 0.165583,
+    "discontinued_gainers": [
+      "Thüringer Rostbratwurst"
+    ],
+    "discontinued_gainers_change": [
+      23524.419
+    ],
+    "discontinued_gainers_category": [
+      "Meat/Poultry"
+    ],
+    "products_declining": 14,
+    "products_total": 77
+  },
+  "q2": {
+    "ttm_total": 848053.5615,
+    "ongoing_total": 727470.8945,
+    "discontinued_total": 120582.667,
+    "suppliers": 28,
+    "top_n": 10,
+    "top_share": 0.632682,
+    "top4_share": 0.36937,
+    "negotiate_names": [
+      "Pavlova, Ltd.",
+      "Forêts d'érables",
+      "Grandma Kelly's Homestead",
+      "Formaggi Fortini s.r.l.",
+      "Norske Meierier",
+      "Specialty Biscuits, Ltd."
+    ],
+    "negotiate_total": 216029.3225,
+    "negotiate_share": 0.296959,
+    "negotiate_max_share": 0.279783,
+    "protect_names": [
+      "Aux joyeux ecclésiastiques",
+      "Gai pâturage",
+      "G'day, Mate",
+      "Pasta Buttini s.r.l."
+    ],
+    "protect_categories": [
+      "Beverages",
+      "Dairy Products",
+      "Produce",
+      "Grains/Cereals"
+    ],
+    "protect_shares": [
+      0.558045,
+      0.493295,
+      0.555652,
+      0.574204
+    ],
+    "protect_total": 244228.225,
+    "protect_share": 0.335722,
+    "protect_min_share": 0.493295,
+    "meat_total": 106506.0595,
+    "meat_discontinued": 94167.592,
+    "meat_discontinued_share": 0.884152,
+    "meat_active_suppliers": 1,
+    "meat_active_products": [
+      "Pâté chinois",
+      "Tourtière"
+    ],
+    "meat_supplier": "Ma Maison",
+    "seafood_suppliers": 8,
+    "seafood_total": 99337.8225,
+    "seafood_largest_share": 0.216842,
+    "low_stock_top": [
+      "Pavlova, Ltd.",
+      "Pasta Buttini s.r.l.",
+      "Formaggi Fortini s.r.l.",
+      "Specialty Biscuits, Ltd."
+    ]
+  },
+  "q3": {
+    "as_of": "1998-05-06T00:00:00",
+    "customers_ordered": 89,
+    "eligible": 86,
+    "at_risk_count": 5,
+    "at_risk_revenue": 28470.635,
+    "at_risk_share": 0.033226,
+    "at_risk_lifetime": 58373.145,
+    "top_at_risk": [
+      "Mère Paillarde",
+      "Seven Seas Imports",
+      "Victuailles en stock"
+    ],
+    "top_at_risk_revenue": [
+      12911.85,
+      7170.135,
+      5828.05
+    ],
+    "top_at_risk_overdue": [
+      10.742857,
+      3.137931,
+      5.421053
+    ],
+    "top_at_risk_country": [
+      "Canada",
+      "UK",
+      "France"
+    ],
+    "at_risk_countries": {
+      "France": 2,
+      "Canada": 1,
+      "UK": 1,
+      "USA": 1
+    },
+    "watch_count": 4,
+    "watch_revenue": 25288.1375,
+    "thin_names": [
+      "Centro comercial Moctezuma",
+      "GROSELLA-Restaurante",
+      "Lazy K Kountry Store"
+    ],
+    "never_ordered": 2,
+    "watch_names": [
+      "Berglunds snabbköp",
+      "Blondel père et fils",
+      "Familia Arquibaldo",
+      "La corne d'abondance"
+    ],
+    "at_risk_names": [
+      "Mère Paillarde",
+      "Seven Seas Imports",
+      "Victuailles en stock",
+      "Hungry Coyote Import Store",
+      "Vins et alcools Chevalier"
+    ],
+    "at_risk_multiple": 3.0,
+    "watch_multiple": 2.0,
+    "flagged_count": 9,
+    "flagged_revenue": 53758.7725,
+    "flagged_share": 0.062737,
+    "flagged_countries": {
+      "France": 4,
+      "Canada": 1,
+      "UK": 1,
+      "USA": 1,
+      "Sweden": 1,
+      "Brazil": 1
+    },
+    "flagged_prior_window": 19904.63,
+    "flagged_current_window": 13682.6625,
+    "france_flagged": 4,
+    "france_flagged_prior_window": 6388.24,
+    "france_flagged_current_window": 5298.5,
+    "top_at_risk_gap": [
+      17.5,
+      29.0,
+      19.0
+    ],
+    "top_at_risk_days": [
+      188,
+      91,
+      103
+    ],
+    "top_at_risk_lifetime": [
+      28872.19,
+      16215.325,
+      9182.43
+    ],
+    "backtest_snapshots": 447,
+    "backtest_cutoffs": 7,
+    "backtest_horizon": 120,
+    "backtest_on_track_reorder": 0.845238,
+    "backtest_watch_reorder": 0.875,
+    "backtest_at_risk_reorder": 0.71831,
+    "backtest_at_risk_n": 71,
+    "backtest_on_track_n": 336,
+    "backtest_p": 0.01529,
+    "rep_rho": 0.137685,
+    "rep_p": 0.206163,
+    "median_reps": 5.0
+  },
+  "q4": {
+    "summary": {
+      "Speedy Express": {
+        "Orders": 249,
+        "Share of orders": 0.3,
+        "Median days to ship": 7.0,
+        "90% shipped within (days)": 18.0,
+        "Share taking over 14 days": 0.122449,
+        "Late vs required date": 0.04898,
+        "Average freight": 65.001325,
+        "Freight as % of order value (median)": 0.050814,
+        "Total freight": 16185.33
+      },
+      "United Package": {
+        "Orders": 326,
+        "Share of orders": 0.392771,
+        "Median days to ship": 7.0,
+        "90% shipped within (days)": 22.0,
+        "Share taking over 14 days": 0.149206,
+        "Late vs required date": 0.050794,
+        "Average freight": 86.640644,
+        "Freight as % of order value (median)": 0.047373,
+        "Total freight": 28244.85
+      },
+      "Federal Shipping": {
+        "Orders": 255,
+        "Share of orders": 0.307229,
+        "Median days to ship": 6.0,
+        "90% shipped within (days)": 12.0,
+        "Share taking over 14 days": 0.076305,
+        "Late vs required date": 0.036145,
+        "Average freight": 80.441216,
+        "Freight as % of order value (median)": 0.050773,
+        "Total freight": 20512.51
+      }
+    },
+    "kruskal_p": 0.052561,
+    "fed_vs_united_p": 0.019998,
+    "fed_vs_speedy_p": 0.076372,
+    "speedy_vs_united_p": 0.592856,
+    "slow_p": 0.028508,
+    "late_p": 0.680946,
+    "adj_days_diff": -1.717005,
+    "adj_days_ci": [
+      -2.857652,
+      -0.576359
+    ],
+    "adj_days_p": 0.003174,
+    "adj_slow_diff": -0.068932,
+    "adj_slow_ci": [
+      -0.121623,
+      -0.01624
+    ],
+    "adj_slow_p": 0.010346,
+    "cost": {
+      "United Package": {
+        "diff": 0.0,
+        "low": null,
+        "high": null,
+        "p": null
+      },
+      "Speedy Express": {
+        "diff": 0.03677,
+        "low": -0.136895,
+        "high": 0.245377,
+        "p": 0.699459
+      },
+      "Federal Shipping": {
+        "diff": 0.161906,
+        "low": -0.020135,
+        "high": 0.377766,
+        "p": 0.084347
+      }
+    },
+    "value_elasticity": 1.037846,
+    "cost_r2": 0.559935,
+    "united_share_first": 0.368421,
+    "united_share_last": 0.433333,
+    "share_labels": [
+      "1996 (Jul–Dec)",
+      "1997",
+      "1998 (Jan–6 May)"
+    ],
+    "customers_median_shippers": 3.0,
+    "total_freight": 64942.69,
+    "slow_days": 14,
+    "united_ttm_freight": 20234.65,
+    "ttm_revenue": 848053.5615,
+    "switch_cost_point": 3276.102078,
+    "switch_cost_high": 7643.970766,
+    "switch_cost_share_of_revenue": 0.003863,
+    "united_ttm_orders": 209,
+    "shipped_orders": 809,
+    "slow_orders_avoided": 14.406714
+  },
+  "dataset": {
+    "orders": 830,
+    "lines": 2155,
+    "customers": 91,
+    "products": 77,
+    "suppliers": 29,
+    "employees": 9,
+    "shippers": 3,
+    "first_date": "Jul 1996",
+    "last_date": "May 1998",
+    "first_date_long": "4 July 1996",
+    "last_date_long": "6 May 1998",
+    "price_differs_share": 0.305336
+  }
+}

@@ -1,0 +1,29 @@
+Rank,Supplier,Country,Main category,Ongoing sales,Share of category,Other suppliers in category,Sales of discontinued products,Action
+1,Aux joyeux ecclésiastiques,France,Beverages,95014.175,0.5580449784692848,6,0.0,protect
+2,Gai pâturage,France,Dairy Products,80280.3,0.49329502548420295,3,0.0,protect
+3,"Pavlova, Ltd.",Australia,Seafood,49642.7975,0.1537472179761981,7,20365.8,negotiate
+4,Forêts d'érables,Canada,Confections,43768.42,0.27978338780020884,5,0.0,negotiate
+5,"G'day, Mate",Australia,Produce,36453.6,0.5556523494981226,3,11010.96,protect
+6,Pasta Buttini s.r.l.,Italy,Grains/Cereals,32480.15,0.5742036066555513,3,0.0,protect
+7,Grandma Kelly's Homestead,USA,Produce,32174.0,0.2787182307809612,3,0.0,negotiate
+8,Formaggi Fortini s.r.l.,Italy,Dairy Products,31829.475,0.1955812532000229,3,0.0,negotiate
+9,Norske Meierier,Norway,Dairy Products,29795.05,0.1830804063892773,3,0.0,negotiate
+10,"Specialty Biscuits, Ltd.",UK,Confections,28819.58,0.2758521751354319,5,0.0,negotiate
+11,Plutzer Lebensmittelgroßmärkte AG,Germany,Grains/Cereals,24328.2625,0.13195948539582641,3,71812.13200000001,other
+12,Heli Süßwaren GmbH & Co. KG,Germany,Confections,21448.9945,0.2053031927353874,5,0.0,other
+13,Exotic Liquids,UK,Beverages,21181.8,0.10326036270350943,6,0.0,other
+14,Cooperativa de Quesos 'Las Cabras',Spain,Dairy Products,20838.15,0.12804331492649684,3,0.0,other
+15,Leka Trading,Singapore,Beverages,20709.295,0.08797927599315206,6,6298.6,other
+16,Karkki Oy,Finland,Beverages,19615.2875,0.07150751144831015,6,0.0,other
+17,New England Seafood Cannery,USA,Seafood,18829.02,0.18954532650441377,7,0.0,other
+18,Tokyo Traders,Japan,Seafood,18133.0,0.16544243266237146,7,4510.5,other
+19,Svensk Sjöföda AB,Sweden,Seafood,15900.2,0.1600618938471296,7,0.0,other
+20,New Orleans Cajun Delights,USA,Condiments,15440.08,0.23654137851740492,7,3416.0,other
+21,Bigfoot Breweries,USA,Beverages,14784.0,0.08683059092698439,6,0.0,other
+22,Ma Maison,Canada,Meat/Poultry,12338.4675,1.0,0,0.0,other
+23,PB Knäckebröd AB,Sweden,Grains/Cereals,9889.5,0.17483252287997667,3,0.0,other
+24,Nord-Ost-Fisch Handelsgesellschaft mbH,Germany,Seafood,9313.9275,0.09376013350806034,7,0.0,other
+25,Mayumi's,Japan,Seafood,8856.5125,0.0449083670848647,7,0.0,other
+26,Lyngbysild,Denmark,Seafood,7646.275,0.07697244420673707,7,0.0,other
+27,Escargots Nouveaux,France,Seafood,4503.675,0.0453369611559585,7,0.0,other
+28,Zaanse Snoepfabriek,Netherlands,Confections,3456.9,0.033088385889928816,5,0.0,other

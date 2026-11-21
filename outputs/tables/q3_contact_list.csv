@@ -1,0 +1,10 @@
+Customer,Country,Status,Orders,Usual gap (days),Days since last order,Overdue (× usual gap),Last order,"Revenue, last 12 months"
+Mère Paillarde,Canada,At risk,13,17.5,188,10.742857142857142,1997-10-30,12911.849999999999
+Seven Seas Imports,UK,At risk,9,29.0,91,3.1379310344827585,1998-02-04,7170.135
+Victuailles en stock,France,At risk,10,19.0,103,5.421052631578948,1998-01-23,5828.05
+Hungry Coyote Import Store,USA,At risk,5,37.5,240,6.4,1997-09-08,2180.8
+Vins et alcools Chevalier,France,At risk,4,27.0,175,6.481481481481482,1997-11-12,379.8
+Berglunds snabbköp,Sweden,Watch,18,26.0,63,2.423076923076923,1998-03-04,16203.927499999998
+Blondel père et fils,France,Watch,11,42.5,114,2.6823529411764704,1998-01-12,4715.16
+Familia Arquibaldo,Brazil,Watch,7,63.5,187,2.9448818897637796,1997-10-31,2377.0
+La corne d'abondance,France,Watch,4,19.0,43,2.263157894736842,1998-03-24,1992.05

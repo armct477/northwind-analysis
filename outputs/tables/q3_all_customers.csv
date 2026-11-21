@@ -1,0 +1,90 @@
+Customer,Country,Status,Orders,Usual gap (days),Days since last order,Overdue (× usual gap),Last order,"Revenue, last 12 months"
+Mère Paillarde,Canada,At risk,13,17.5,188,10.742857142857142,1997-10-30,12911.849999999999
+Vins et alcools Chevalier,France,At risk,4,27.0,175,6.481481481481482,1997-11-12,379.8
+Hungry Coyote Import Store,USA,At risk,5,37.5,240,6.4,1997-09-08,2180.8
+Victuailles en stock,France,At risk,10,19.0,103,5.421052631578948,1998-01-23,5828.05
+Seven Seas Imports,UK,At risk,9,29.0,91,3.1379310344827585,1998-02-04,7170.135
+Folies gourmandes,France,On track,5,90.5,135,1.4917127071823204,1997-12-22,9288.5
+Antonio Moreno Taquería,Mexico,On track,7,66.0,98,1.4848484848484849,1998-01-28,5871.715
+Island Trading,UK,On track,10,44.0,61,1.3863636363636365,1998-03-06,5014.7
+Tradição Hipermercados,Brazil,On track,7,81.5,107,1.312883435582822,1998-01-19,5364.664
+QUICK-Stop,Germany,On track,28,18.0,22,1.2222222222222223,1998-04-14,81238.46500000001
+Trail's Head Gourmet Provisioners,USA,On track,3,101.5,118,1.1625615763546797,1998-01-08,1571.1999999999998
+Wellington Importadora,Brazil,On track,9,52.5,58,1.1047619047619048,1998-03-09,3842.56
+Bottom-Dollar Markets,Canada,On track,14,12.0,12,1.0,1998-04-24,14456.550000000001
+Godos Cocina Típica,Spain,On track,10,15.0,15,1.0,1998-04-21,10328.560000000001
+Split Rail Beer & Ale,USA,On track,9,43.5,42,0.9655172413793104,1998-03-25,3107.0
+Die Wandernde Kuh,Germany,On track,10,14.0,13,0.9285714285714286,1998-04-23,3806.625
+Laughing Bacchus Wine Cellars,Canada,On track,3,136.5,125,0.9157509157509157,1998-01-01,244.5
+Around the Horn,UK,On track,13,29.0,26,0.896551724137931,1998-04-10,11603.95
+Furia Bacalhau e Frutos do Mar,Portugal,On track,8,54.0,48,0.8888888888888888,1998-03-19,3254.3375
+Let's Stop N Shop,USA,On track,4,94.0,83,0.8829787234042553,1998-02-12,3076.4725000000003
+Vaffeljernet,Denmark,On track,11,40.0,34,0.85,1998-04-02,10726.125
+Magazzini Alimentari Riuniti,Italy,On track,10,62.0,51,0.8225806451612904,1998-03-16,4449.925
+Romero y tomillo,Spain,On track,5,35.0,27,0.7714285714285715,1998-04-09,726.89
+Frankenversand,Germany,On track,15,36.0,27,0.75,1998-04-09,15396.519499999999
+Wartian Herkku,Finland,On track,15,28.5,21,0.7368421052631579,1998-04-15,7249.7425
+Wilman Kala,Finland,On track,8,40.0,29,0.725,1998-04-07,3161.35
+Alfreds Futterkiste,Germany,On track,6,39.0,27,0.6923076923076923,1998-04-09,4273.0
+B's Beverages,UK,On track,10,32.0,22,0.6875,1998-04-14,3896.3
+Suprêmes délices,Belgium,On track,12,22.0,15,0.6818181818181818,1998-04-21,11672.6
+Galería del gastrónomo,Spain,On track,5,98.5,62,0.6294416243654822,1998-03-05,362.5
+Que Delícia,Brazil,On track,9,59.5,36,0.6050420168067226,1998-03-31,3661.7400000000002
+Consolidated Holdings,UK,On track,3,176.5,103,0.5835694050991501,1998-01-23,931.5
+Königlich Essen,Germany,On track,14,35.0,20,0.5714285714285714,1998-04-16,25971.983999999997
+Ana Trujillo Emparedados y helados,Mexico,On track,4,112.0,63,0.5625,1998-03-04,1314.15
+Morgenstern Gesundkost,Germany,On track,5,98.5,55,0.5583756345177665,1998-03-12,3841.4
+LINO-Delicateses,Venezuela,On track,12,27.0,15,0.5555555555555556,1998-04-21,14492.565
+Toms Spezialitäten,Germany,On track,5,79.5,44,0.5534591194968553,1998-03-23,2214.5
+Du monde entier,France,On track,4,143.0,79,0.5524475524475524,1998-02-16,1347.1
+Maison Dewey,Belgium,On track,7,56.5,29,0.5132743362831859,1998-04-07,9736.074999999999
+Océano Atlántico Ltda.,Argentina,On track,5,72.5,37,0.5103448275862069,1998-03-30,3141.0
+Hanari Carnes,Brazil,On track,14,18.0,9,0.5,1998-04-27,29843.97
+France restauration,France,On track,3,94.0,43,0.4574468085106383,1998-03-24,3172.16
+Princesa Isabel Vinhos,Portugal,On track,6,65.0,28,0.4307692307692308,1998-04-08,4044.9
+Spécialités du monde,France,On track,4,33.0,14,0.42424242424242425,1998-04-22,2423.35
+Ottilies Käseladen,Germany,On track,9,57.0,22,0.38596491228070173,1998-04-14,9557.550000000001
+Lonesome Pine Restaurant,USA,On track,8,60.0,23,0.38333333333333336,1998-04-13,3546.6000000000004
+The Big Cheese,USA,On track,4,92.0,35,0.3804347826086957,1998-04-01,3025.0
+Gourmet Lanchonetes,Brazil,On track,9,32.5,12,0.36923076923076925,1998-04-24,7394.135
+Rancho grande,Argentina,On track,5,63.0,23,0.36507936507936506,1998-04-13,2400.7
+Folk och fä HB,Sweden,On track,19,25.0,9,0.36,1998-04-27,26461.5175
+Save-a-lot Markets,USA,On track,31,14.0,5,0.35714285714285715,1998-05-01,82373.50999999998
+HILARIÓN-Abastos,Venezuela,On track,18,24.0,8,0.3333333333333333,1998-04-28,14335.264000000001
+Wolski  Zajazd,Poland,On track,7,40.0,13,0.325,1998-04-23,3072.95
+La maison d'Asie,France,On track,14,28.0,9,0.32142857142857145,1998-04-27,4237.72
+Old World Delicatessen,USA,On track,10,56.0,16,0.2857142857142857,1998-04-20,7335.662499999999
+The Cracker Box,USA,On track,3,121.0,30,0.24793388429752067,1998-04-06,1947.24
+Hungry Owl All-Night Grocers,Ireland,On track,19,26.0,6,0.23076923076923078,1998-04-30,34985.6
+Santé Gourmet,Norway,On track,6,113.0,26,0.23008849557522124,1998-04-10,4476.75
+Cactus Comidas para llevar,Argentina,On track,6,35.0,8,0.22857142857142856,1998-04-28,1589.3
+Eastern Connection,UK,On track,8,36.0,8,0.2222222222222222,1998-04-28,10748.035
+Great Lakes Food Market,USA,On track,11,28.0,6,0.21428571428571427,1998-04-30,18115.25
+White Clover Markets,USA,On track,14,25.0,5,0.2,1998-05-01,21411.43
+Franchi S.p.A.,Italy,On track,6,36.0,6,0.16666666666666666,1998-04-30,1495.9
+Bólido Comidas preparadas,Spain,On track,3,265.0,43,0.16226415094339622,1998-03-24,3250.8500000000004
+Ricardo Adocicados,Brazil,On track,11,45.5,7,0.15384615384615385,1998-04-29,8895.9
+Blauer See Delikatessen,Germany,On track,7,46.0,7,0.15217391304347827,1998-04-29,2954.0
+Piccolo und mehr,Austria,On track,10,60.0,9,0.15,1998-04-27,12005.38
+Comércio Mineiro,Brazil,On track,5,110.5,14,0.12669683257918551,1998-04-22,513.75
+Chop-suey Chinese,Switzerland,On track,8,121.0,14,0.11570247933884298,1998-04-22,8360.46
+Reggiani Caseifici,Italy,On track,12,55.0,6,0.10909090909090909,1998-04-30,6258.7
+Drachenblut Delikatessen,Germany,On track,6,27.0,2,0.07407407407407407,1998-05-04,3229.61
+Ernst Handel,Austria,On track,30,14.0,1,0.07142857142857142,1998-05-05,70423.74849999999
+Queen Cozinha,Brazil,On track,13,36.5,2,0.0547945205479452,1998-05-04,13786.1175
+Lehmanns Marktstand,Germany,On track,15,23.0,1,0.043478260869565216,1998-05-05,12457.195
+North/South,UK,On track,3,185.0,7,0.03783783783783784,1998-04-29,297.0
+Tortuga Restaurante,Mexico,On track,10,59.0,2,0.03389830508474576,1998-05-04,3247.8
+LILA-Supermercado,Venezuela,On track,14,39.0,1,0.02564102564102564,1998-05-05,7731.82
+Pericles Comidas clásicas,Mexico,On track,6,41.0,1,0.024390243902439025,1998-05-05,1496.0
+Bon app',France,On track,17,24.5,0,0.0,1998-05-06,12699.7725
+Rattlesnake Canyon Grocery,USA,On track,18,28.0,0,0.0,1998-05-06,26257.820499999998
+Richter Supermarkt,Switzerland,On track,10,73.0,0,0.0,1998-05-06,14755.679
+Simons bistro,Denmark,On track,7,92.5,0,0.0,1998-05-06,5276.0975
+Lazy K Kountry Store,USA,Too little history,2,62.0,349,5.629032258064516,1997-05-22,210.0
+GROSELLA-Restaurante,Venezuela,Too little history,2,506.0,139,0.274703557312253,1997-12-18,387.5
+Centro comercial Moctezuma,Mexico,Too little history,1,,657,,1996-07-18,0.0
+Familia Arquibaldo,Brazil,Watch,7,63.5,187,2.9448818897637796,1997-10-31,2377.0
+Blondel père et fils,France,Watch,11,42.5,114,2.6823529411764704,1998-01-12,4715.16
+Berglunds snabbköp,Sweden,Watch,18,26.0,63,2.423076923076923,1998-03-04,16203.927499999998
+La corne d'abondance,France,Watch,4,19.0,43,2.263157894736842,1998-03-24,1992.05
